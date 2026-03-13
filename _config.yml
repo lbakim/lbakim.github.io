@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "버둥버둥"
+title                    : "Out of Samples"
 title_separator          : "|"
-subtitle                 : "A good start is half the journey. Be fearless!"
+subtitle                 : "Be The Outlier"
 name                     : "Ye Jun Kim"
 description              : "뭐든 해보는 블로그"
 url                      : "https://lbakim.github.io"
